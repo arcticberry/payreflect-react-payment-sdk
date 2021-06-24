@@ -1,2 +1,2 @@
 # payreflect-react-payment-sdk
-A ReactJs payment SDK for pay reflect
+A ReactJs payment SDK for Payreflect to make payment with multiple service providers
